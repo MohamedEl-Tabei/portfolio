@@ -1,0 +1,48 @@
+.photo{
+    background-color: #213545;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    border-radius: 100% 0% 0% 0%;
+    border-bottom: 0px;
+    border-right: 0px;
+}
+.iam{
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    flex-direction: column;
+
+}
+.bg-darkblue{
+    background-color: #213545;
+}
+.text-darkblue{
+    color: #213545;
+}
+.h-90vh{
+    height: 90vh;
+}
+.h-100vh{
+    height: 100vh;
+}
+.w-40{
+    width: 40%;
+}
+.absolute{
+    position: absolute;
+    background-color: #00000099;
+}
+.relative{
+    position: relative;
+}
+.text-blue{
+    color: #457095;
+}
+.text-gray{
+    color: #9e9e9e;
+}
+.border-blue{
+    border-color: #457095 !important;
+}
