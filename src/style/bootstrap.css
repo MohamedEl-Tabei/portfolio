@@ -1,3 +1,6 @@
-.bg-dark{
-    background-color: #062c2c;
+.navbar-text{
+    text-decoration: none;
+}
+.navbar-text:hover{
+    color: #457095;
 }

@@ -1,8 +1,8 @@
 const NavBar = () => {
   return (
-    <nav class="navbar bg-dark border-bottom border-dark shadow" data-bs-theme="dark">
+    <nav class="navbar  border-bottom border-dark shadow sticky-top" data-bs-theme="dark">
       <div class="container-fluid">
-        <a class="navbar-brand" href="/">Mohamed Eltabei</a>
+        <a class="navbar-text" href="#iam">Mohamed Eltabei</a>
       </div>
     </nav>
   );
