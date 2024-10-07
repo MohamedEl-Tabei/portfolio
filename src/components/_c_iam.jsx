@@ -2,7 +2,7 @@ import Components from ".";
 
 const IamContainer = () => {
   return (
-    <div className="m-2 bg-dark d-flex justify-content-end text-light h-90vh relative" >
+    <div className="m-2 bg-dark d-flex justify-content-end text-light h-90vh hidden show relative">
       <div className=" w-100 h-100 absolute iam">
         <h1 className="text-center w-50">
           <small className="text-blue">I'm</small> Mohamed Eltabei
@@ -11,10 +11,9 @@ const IamContainer = () => {
         <div className="w-50   d-flex justify-content-center mt-3">
           <div className="w-75 text-gray border-top  p-2 border-blue">
             <small style={{ textAlign: "justify" }}>
-              As a full-stack web developer, I write clean, efficient
-              code. For me, programming is more than just problem-solving; it
-              gives me the power to create virtual worlds shaped by ideas and
-              imagination.
+              As a full-stack web developer, I write clean, efficient code. For
+              me, programming is the power of creating virtual worlds shaped by
+              ideas and imagination.
             </small>
           </div>
         </div>

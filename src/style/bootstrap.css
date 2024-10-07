@@ -1,6 +1,8 @@
 .navbar-text{
     text-decoration: none;
-}
-.navbar-text:hover{
     color: #457095;
+    padding: 5px 10px;
+    background-color: #212529;
+    border: #457095 solid 1px;
+
 }
